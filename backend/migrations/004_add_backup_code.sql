@@ -1,0 +1,2 @@
+ALTER TABLE usuarios
+ADD COLUMN IF NOT EXISTS backup_code_hash VARCHAR(255);

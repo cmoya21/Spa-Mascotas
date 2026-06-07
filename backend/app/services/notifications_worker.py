@@ -1,0 +1,1 @@
+from ..utils.notif_worker import procesar_notificaciones as process_pending_notifications

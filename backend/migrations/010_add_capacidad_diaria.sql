@@ -1,0 +1,2 @@
+ALTER TABLE groomers
+ADD COLUMN IF NOT EXISTS capacidad_diaria INT NOT NULL DEFAULT 8;
